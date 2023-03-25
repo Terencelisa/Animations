@@ -10,7 +10,7 @@ html {
     background-image: linear-gradient(to bottom right, #5f5959, #a9a5a5);
     background-repeat: no-repeat;
     background-size: cover;
-    cursor: url(/Project1/Images/cursor.png), auto;
+    cursor: url(cursor.png), auto;
 }
 
 body {
@@ -40,7 +40,7 @@ a {
 
 a:hover {
     color: #fff;
-    cursor: url("/Project1/Images/Pointer\ cursor.png"), auto;
+    cursor: url("Pointer\ cursor.png"), auto;
 }
 
 a:focus,
