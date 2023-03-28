@@ -162,6 +162,10 @@ td {
     color: #000;
 }
 
+td a {
+    color:#000;
+}
+
 .enchantress {
     font-family: "Poppins", sans-serif;
     text-align: justify;
